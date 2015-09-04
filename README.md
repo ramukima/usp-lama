@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/ramukima/usp-lama/blob/master/images/usp-logo.png" alt="USPLogo" height="310"/>
+</p>
+
 # usp-lama
 University Social Portal repository for LAMA team
 
